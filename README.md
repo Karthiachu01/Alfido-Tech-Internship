@@ -1,0 +1,1 @@
+This project demonstrates how to create a responsive navigation bar using the Bootstrap 5 framework. The navbar includes links to key sections of a website—such as Home, About, Services, and Contact—and automatically collapses into a hamburger menu on smaller screens (mobile and tablets).
